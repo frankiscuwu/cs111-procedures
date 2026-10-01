@@ -16,7 +16,11 @@ Every Tuesday, on an alternating basis per week between the two grading coordina
 
 On Sunday, if a grader hasn't start yet, send them a quick follow up email making sure they know of their assignment.
 
-At the end of the grading week, or once all grading has completed for a problem set, quickly check through the grading. For each problem, make sure there aren't any egregiously low grades that aren't justified. Common reasons include an autograder that never ran, a CA putting in the wrong rubric entries or forgetting to grade a submission, etc. Make sure they're validated, before emailing the assigned TA that they can begin checking the problem set. Also send a text to Professor Sullivan, telling that the problem set can be released.
+At the end of the grading week, or once all grading has completed for a problem set, quickly check through the grading. For each problem, make sure there aren't any egregiously low grades that aren't justified. Common reasons include an autograder that never ran, a CA putting in the wrong rubric entries or forgetting to grade a submission, etc. Make sure they're valid; If the grade shouldn't be that low, fix it with any appropriate measure. 
+
+Email the assigned TA that they can begin checking the problem set.
+
+Finally, send a text to Professor Sullivan telling that the problem set can be released.
 
 ## Coordinator grading
 
